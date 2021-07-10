@@ -7,6 +7,8 @@ Esse aplicativo necessita da internet e do GPS do dispositivo habilitado, é rec
 # Instalação
 Após instalar as dependencias para rodar projetos React-Native (Node, SDK java, @react-native-community/cli), entre na pasta do projeto pelo Terminal e executa o comando: yarn android ou npx react-native run-android.
 
+#Screenshots
+
 ![Screenshot](screenshot_loading.jpeg)
 ![Screenshot](screenshot_ok.jpeg)
 ![Screenshot](screenshot_loading2.jpeg)
